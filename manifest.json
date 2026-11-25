@@ -1,0 +1,9 @@
+{
+  "id": "bentovault",
+  "name": "BentoVault",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Customize colors, palettes, AMOLED mode, typography, borders and bento cards, with live preview and JSON presets. Spanish interface.",
+  "author": "Daniel, con Claude y ChatGPT",
+  "isDesktopOnly": false
+}
